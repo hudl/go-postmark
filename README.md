@@ -1,4 +1,4 @@
-# go-postmark
+# go-postmark [![Build Status](https://travis-ci.org/hudl/go-postmark.svg?branch=master)](https://travis-ci.org/hudl/go-postmark)
 
 `go-postmark` is a Go client library for interfacing with the
 [Postmark API](http://developer.postmarkapp.com/), modeled after google's
